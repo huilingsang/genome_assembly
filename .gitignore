@@ -1,0 +1,16 @@
+# data
+*.fastq
+*.fq
+*.bam
+*.sam
+*.vcf
+*.fa
+
+# results
+output/
+results/
+
+# logs / outputs
+*.log
+*.out
+*.err
